@@ -1,0 +1,24 @@
+GET http://localhost:2020/hi
+
+GET http://localhost:2020/info/insert
+
+POST http://localhost:2020/facultyPost
+Content-Type: application/json
+
+{
+      "CNAME":"Suresh",
+      "AGE":19,
+      "CITY":"SALEM"
+      
+}
+
+DELETE http://localhost:2020/delete/4
+
+PUT http://localhost:2020/facultyUpdate/3
+Content-Type: application/json
+
+{
+      "CNAME":"Harish",
+      "AGE":18,
+      "CITY":"NAMAKKAL"     
+}

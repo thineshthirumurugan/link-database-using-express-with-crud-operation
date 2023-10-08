@@ -1,0 +1,4 @@
+GET http://localhost:2020/hi
+
+GET http://localhost:2020/info/insert
+
