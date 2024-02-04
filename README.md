@@ -9,7 +9,7 @@ npm install express
 package installation:
 npm init -y
 
-read database in from the database:(middleware)=>vara data ellam json format la varum atha namba body parser mooliyama use panikalam
+read database in from the database:(middleware
 npm install body-parser   
 
 install nodemon:(live server like html)
